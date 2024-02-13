@@ -1,0 +1,1 @@
+base pour style de block
